@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Screenshots
+<img width="900" alt="Screenshot 2023-08-10 000514" src="https://github.com/Yukrant/Chat-GPT_frontend/assets/95124079/b853b823-91b8-4974-85b0-a0cf58574ab4">
+<img width="900" alt="Screenshot 2023-08-10 001458" src="https://github.com/Yukrant/Chat-GPT_frontend/assets/95124079/33fe8fd0-205d-43c3-b648-4b82cccdecdd">
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
